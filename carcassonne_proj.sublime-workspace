@@ -1,0 +1,1212 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ga",
+				"gameTableArr"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"game",
+				"gameTable"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"tri",
+				"trim"
+			],
+			[
+				"str_r",
+				"str_replace"
+			],
+			[
+				"ma",
+				"mailcontent"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"php",
+				"php\t<?php ?>"
+			],
+			[
+				"wiek",
+				"wieku"
+			],
+			[
+				"sor",
+				"sortWzrost"
+			],
+			[
+				"wzro",
+				"wzroście"
+			],
+			[
+				"naz",
+				"nazwisko"
+			],
+			[
+				"pod",
+				"podSort"
+			],
+			[
+				"el",
+				"element_str"
+			],
+			[
+				"wy",
+				"wyswietlOsoby"
+			],
+			[
+				"us",
+				"usort"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ta",
+				"tabela_osob"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"tab",
+				"table\tTag"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"bor",
+				"border-collapse"
+			],
+			[
+				"flock",
+				"flock\tphp_flock_odczyt"
+			],
+			[
+				"flo",
+				"flock\tphp_flock_odczyt"
+			],
+			[
+				"htm",
+				"htmlspecialchars"
+			],
+			[
+				"fp",
+				"fp"
+			],
+			[
+				"html",
+				"html\thtml_new_document"
+			],
+			[
+				"fl",
+				"flock"
+			],
+			[
+				"doc",
+				"document_root"
+			],
+			[
+				"fo",
+				"fopen"
+			],
+			[
+				"ilo",
+				"iloscswiec"
+			],
+			[
+				"il",
+				"iloscoleju"
+			],
+			[
+				"preg_",
+				"preg_replace"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"s",
+				"stawkavat"
+			],
+			[
+				"CE",
+				"CENASWIEC"
+			],
+			[
+				"C",
+				"CENAOPON"
+			],
+			[
+				"en",
+				"end"
+			],
+			[
+				"_",
+				"$_\tPOST['…']"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"form",
+				"form\thtml_form_post"
+			],
+			[
+				"po",
+				"podsF"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"fi",
+				"filmId"
+			],
+			[
+				"wyd",
+				"wydarzenieId"
+			],
+			[
+				"sl",
+				"slug"
+			],
+			[
+				"cza",
+				"czasDoZnikniecia"
+			],
+			[
+				"cz",
+				"czasDoZnikniecia"
+			],
+			[
+				"czas",
+				"czasDoZnikniecia"
+			],
+			[
+				"za",
+				"zadanyCzasTestowy"
+			],
+			[
+				"sp",
+				"sprawdzPoprawnoscGodziny"
+			],
+			[
+				"roz",
+				"rozdzielone"
+			],
+			[
+				"ro",
+				"rozdzielone"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"set",
+				"setHours"
+			],
+			[
+				"ob",
+				"obliczRoznice"
+			],
+			[
+				"n",
+				"now"
+			],
+			[
+				"ne",
+				"new"
+			],
+			[
+				"new",
+				"newDate"
+			],
+			[
+				"wyge",
+				"wygenerowanych"
+			],
+			[
+				"ekran",
+				"ekran-kasa"
+			],
+			[
+				"pri",
+				"printf"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"data",
+				"data_generowania"
+			],
+			[
+				"kate",
+				"kategoria"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"uns",
+				"unset_pola"
+			],
+			[
+				"pr",
+				"printf"
+			],
+			[
+				"do",
+				"do_unset"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"si",
+				"single_data"
+			],
+			[
+				"post",
+				"post_title"
+			],
+			[
+				"im",
+				"import_json"
+			],
+			[
+				"jes",
+				"json_decode"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"al",
+				"all_data"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"a",
+				"all_data"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ko",
+				"komentarze"
+			],
+			[
+				"Pokaz",
+				"pokazywanie"
+			],
+			[
+				"poka",
+				"pokazany"
+			],
+			[
+				"hi",
+				"hide"
+			],
+			[
+				"value",
+				"valueWhenShown"
+			],
+			[
+				"pokaz",
+				"pokazywanie"
+			],
+			[
+				"tabe",
+				"tabela"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"margi",
+				"margin-left: "
+			],
+			[
+				"cen",
+				"cena"
+			],
+			[
+				"li",
+				"liczba1"
+			],
+			[
+				"Nor",
+				"normalny2d"
+			],
+			[
+				"ul",
+				"ulgowy"
+			],
+			[
+				"norma",
+				"normalny"
+			],
+			[
+				"Norma",
+				"normalny"
+			],
+			[
+				"no",
+				"normalny2d"
+			],
+			[
+				"czy",
+				"czy_jest_projekcja3d"
+			],
+			[
+				"dopisek",
+				"dopisek_do_zapisania"
+			],
+			[
+				"cenn",
+				"cennik_dla_dnia"
+			],
+			[
+				"rod",
+				"rodzajCeny"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"dz",
+				"dzien"
+			],
+			[
+				"znale",
+				"znaleziono"
+			],
+			[
+				"siz",
+				"size"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"jqu",
+				"jquery-ui"
+			],
+			[
+				"_naz",
+				"_nazwa_pods"
+			],
+			[
+				"_na",
+				"_nazwa_pods"
+			],
+			[
+				"save",
+				"saveAllElementsToPods"
+			],
+			[
+				"godzi",
+				"godzina"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"Z",
+				"ZmienioneDane"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"godz",
+				"godzina"
+			],
+			[
+				"esc",
+				"esc_attr"
+			],
+			[
+				"adr",
+				"adresBezMaski"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "carcassonne/index.html",
+			"settings":
+			{
+				"buffer_size": 511,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<!doctype html>"
+			}
+		},
+		{
+			"file": "carcassonne/css/style.css",
+			"settings":
+			{
+				"buffer_size": 90,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "carcassonne/js/script.js",
+			"settings":
+			{
+				"buffer_size": 1269,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: php",
+				"Snippet: <?php ?>"
+			],
+			[
+				"Snippet: trim",
+				"Snippet: trim()"
+			],
+			[
+				"Snippet: tr",
+				"Snippet: trim()"
+			],
+			[
+				"Snippet: sty",
+				"Snippet: html <style type=\"text/css\"></style>"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html_style"
+			],
+			[
+				"Snippet: str",
+				"Snippet: html_strong"
+			],
+			[
+				"Snippet: p",
+				"Snippet: html_p"
+			],
+			[
+				"Snippet: br",
+				"Snippet: html_br"
+			],
+			[
+				"htmlspe",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html_new_document"
+			],
+			[
+				"Snippet:",
+				"Snippet: test"
+			],
+			[
+				"Snippet: post",
+				"Snippet: $zmienna = $_POST['zmienna']"
+			],
+			[
+				"Snippet: zm",
+				"Snippet: $zmienna = $_POST['zmienna']"
+			],
+			[
+				"Snippet: z",
+				"Snippet: $zmienna = $_POST['zmienna']"
+			],
+			[
+				"begin",
+				"Snippet: php_begin"
+			],
+			[
+				"php",
+				"Snippet: <?php … ?>"
+			],
+			[
+				"html",
+				"Snippet: html_p"
+			],
+			[
+				"h1",
+				"Snippet: html_h1"
+			],
+			[
+				"h",
+				"Snippet: html_h_"
+			],
+			[
+				"test",
+				"Snippet: test"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: com",
+				"Snippet: html_comment"
+			],
+			[
+				"Snippet: co",
+				"Snippet: html_comment"
+			],
+			[
+				"Snippet: comm",
+				"Snippet: html_comment"
+			],
+			[
+				"Snippet: scr",
+				"Snippet: script"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"Package Control: c",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/jurek/Dropbox/webmaster/carcassonne/carcassonne",
+		"/C/Users/jurek/Dropbox/webmaster/carcassonne/carcassonne/css",
+		"/C/Users/jurek/Dropbox/webmaster/carcassonne/carcassonne/js"
+	],
+	"file_history":
+	[
+		"/C/Users/jurek/Dropbox/webmaster/carcassonne/carcassonne/js/jquery-3.2.0.min.js",
+		"/C/Users/jurek/AppData/Roaming/Sublime Text 3/Packages/User/html/_html_open_close.sublime-snippet",
+		"/C/Users/jurek/AppData/Roaming/Sublime Text 3/Packages/User/html/html_style_internal.sublime-snippet",
+		"/C/Users/jurek/AppData/Roaming/Sublime Text 3/Packages/User/php/php_trim.sublime-snippet",
+		"/C/Users/jurek/Dropbox/webmaster/php_vademecum/php_vademecum/php/test_usort.php",
+		"/C/Users/jurek/Dropbox/webmaster/php_vademecum/php_vademecum/php/index.php",
+		"/C/Users/jurek/Dropbox/webmaster/php_vademecum/php_vademecum/php/r03/vieworders_2.php",
+		"/C/Users/jurek/Dropbox/webmaster/php_vademecum/php_vademecum/php/r02/processorder.php",
+		"/C/Users/jurek/Dropbox/webmaster/php_vademecum/php_vademecum/php/r02/orderform.html",
+		"/C/Users/jurek/Dropbox/webmaster/php_vademecum/php_vademecum/php/r04/processfeedback.php",
+		"/C/Users/jurek/Desktop/Package Control Messages",
+		"/C/Users/jurek/AppData/Roaming/Sublime Text 3/Packages/User/php_end.sublime-snippet",
+		"/C/Users/jurek/AppData/Roaming/Sublime Text 3/Packages/User/html/html_new_document.sublime-snippet",
+		"/C/Users/jurek/AppData/Roaming/Sublime Text 3/Packages/User/html/html_input_submit.sublime-snippet",
+		"/C/Users/jurek/AppData/Roaming/Sublime Text 3/Packages/User/php/$zmienna = $_POST['zmienna'].sublime-snippet",
+		"/C/Users/jurek/AppData/Roaming/Sublime Text 3/Packages/User/html/html_br.sublime-snippet",
+		"/C/Users/jurek/AppData/Roaming/Sublime Text 3/Packages/User/html/html_comment.sublime-snippet",
+		"/C/Users/jurek/AppData/Roaming/Sublime Text 3/Packages/User/html/html_h_.sublime-snippet",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/inc/admin-ekran-change-title.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/filmy_single.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/inc/function-admin-ekran.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/inc/ekran-kasa-funkcje.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/inc/function-settings.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/inc/admin-ekran-page.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/ekran.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/js/ekran.js",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/sass/ekran.scss",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/functions.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/js/skrypty.js",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/js/skrypty-admin.js",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/!!!ZMIANY W WP.txt",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/style.css",
+		"/C/Users/jurek/AppData/Local/Temp/fz3temp-2/2017-03-10.log",
+		"/C/Users/jurek/AppData/Local/Temp/fz3temp-2/log.log",
+		"/C/Users/jurek/AppData/Local/Temp/fz3temp-2/2017-03-08.log",
+		"/C/Users/jurek/AppData/Local/Temp/fz3temp-2/log2017-03-08.log",
+		"/C/Users/jurek/Desktop/log.log",
+		"/C/Users/jurek/Desktop/log.txt",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/cennik.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/inc/function-admin-pods-export-import.php",
+		"/C/Users/jurek/Downloads/centrumsztukiwoawie.wordpress.2017-03-02(2).xml",
+		"/C/Users/jurek/Dropbox/webmaster/Wordpress - notatki/024-import-pods.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/inc/admin-export-pods.php",
+		"/C/Users/jurek/Dropbox/webmaster/Wordpress - notatki/023-eksport-pods.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/inc/admin-import-pods.php",
+		"/C/Users/jurek/Desktop/filmy-Array",
+		"/C/Users/jurek/Dropbox/webmaster/Wordpress - notatki/022-podglad-pol-pods.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/inc/admin-exp-imp-pods.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/visualticket_import/visualticket_import.js",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/import-projekcji.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/style/medium768.css",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/js/admin_post_dodawanie_edycja.js",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/wydarzenia_single.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/wydarzenia.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/kino.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/bilety_online.php",
+		"/C/Users/jurek/Downloads/bootstrap-material-datetimepicker-2.7.1/bootstrap-material-datetimepicker-2.7.1/README.md",
+		"/C/Users/jurek/Downloads/bootstrap-material-datetimepicker-2.7.1/bootstrap-material-datetimepicker-2.7.1/LICENSE.md",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!OSIOLEK_CS/sass/style_cs.scss",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/edukacja.php",
+		"/C/Users/jurek/Downloads/wordpress-4.6.1-pl_PL/wordpress/wp-settings.php",
+		"/C/Users/jurek/Downloads/wordpress-4.7.2-pl_PL/wordpress/wp-config-sample.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/config.rb",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/kontakt.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/footer.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/css/ekran.css",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/header-ekran.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!OSIOLEK_CS/config.rb",
+		"/C/Users/jurek/Dropbox/webmaster/Wordpress - notatki/021-pods-save.php",
+		"/C/Users/jurek/Dropbox/webmaster/nw.js/nw/euler/js/funkcje.js",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/footer-ekran.php",
+		"/C/Users/jurek/Dropbox/webmaster/nw.js/nw/euler/liczbyPierwsze.html",
+		"/C/Users/jurek/Dropbox/webmaster/nw.js/nw/euler/index.html",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/centrum-sztuki_NOT INCLUDED/kopie/2017-01-12 kultura.olawa/ZMODYFIKOWANYkopia-bazy-kulturaolawa_6-2017-01-12-12-16 — kopia.sql",
+		"/C/Users/jurek/Dropbox/webmaster/nw.js/nw/euler/js/problem_10.js",
+		"/C/Users/jurek/Dropbox/webmaster/JavaScript jQuery/EULER/problem_10.html",
+		"/C/Users/jurek/Dropbox/webmaster/JavaScript jQuery/EULER/js/problem_10.js",
+		"/C/Users/jurek/Dropbox/webmaster/nw.js/nw/euler/js/script.js",
+		"/C/Users/jurek/Dropbox/webmaster/JavaScript jQuery/EULER/problem_3.html",
+		"/C/Users/jurek/Dropbox/webmaster/JavaScript jQuery/EULER/euler.html",
+		"/C/Users/jurek/Dropbox/webmaster/JavaScript jQuery/EULER/js/problem_3.js",
+		"/C/Users/jurek/Dropbox/webmaster/nw.js/nw/euler.bat",
+		"/C/Users/jurek/Dropbox/webmaster/JavaScript jQuery/mierzenie czasu/mierzenieCzasu.html",
+		"/C/Users/jurek/Dropbox/webmaster/JavaScript jQuery/EULER/js/funkcje",
+		"/C/Users/jurek/Dropbox/webmaster/nw.js/nw/jsSudoku1/git_jsSudoku1/output_jsSudoku1/index.html",
+		"/C/Users/jurek/Dropbox/webmaster/nw.js/nw/jsSudoku1/git_jsSudoku1/output_jsSudoku1/js/script.js",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!_fwk/fwk/sass/style_fwk.scss",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!_fwk/fwk/watch.bat",
+		"/C/Users/jurek/Dropbox/webmaster/nw.js/nw/project1.bat",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!OSIOLEK_CS/centrum-sztuki-0.4-develop/wydarzenia_single.php",
+		"/C/Users/jurek/Dropbox/webmaster/nw.js/nw/jsSudoku1/git_jsSudoku1/sass/style.scss",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/header.php",
+		"/C/Users/jurek/Desktop/wp-config.php",
+		"/C/Users/jurek/Dropbox/webmaster/nw.js/nw/jsSudoku1/git_jsSudoku1/output_jsSudoku1/package.json",
+		"/C/Users/jurek/Dropbox/webmaster/nw.js/nw/jsSudoku1/git_jsSudoku1/output_jsSudoku1/css/style.css",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!OSIOLEK_CS/centrum-sztuki-0.4-develop/visualticket_import/visualticket_import.js",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/XMLGetter.php",
+		"/C/Users/jurek/Dropbox/webmaster/nw.js/nw/jsListaZadan/index.html",
+		"/C/Users/jurek/Dropbox/webmaster/nw.js/nw/jsSudoku1/git_jsSudoku1/config.rb",
+		"/C/Users/jurek/Dropbox/webmaster/nw.js/nw/jsSudoku1.bat",
+		"/C/Users/jurek/Dropbox/webmaster/nw.js/nw/jsListaZadan — kopia.bat",
+		"/C/!NIE_USUWAC/Dropbox/webmaster/nw.js/nw/jsSudoku1.bat",
+		"/C/!NIE_USUWAC/Dropbox/webmaster/nw.js/nw/jsListaZadan.bat",
+		"/C/Users/jurek/Dropbox/webmaster/nw.js/nw/helloWorld/package.json",
+		"/C/Users/jurek/Dropbox/webmaster/nw.js/nw/helloWorld/index.html",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!OSIOLEK_CS/centrum-sztuki-0.4-develop/wydarzenia.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!OSIOLEK_CS/centrum-sztuki-0.4-develop/footer.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!OSIOLEK_CS/centrum-sztuki-0.4-develop/_temp_footer.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!OSIOLEK_CS/centrum-sztuki-0.4-develop/header.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!OSIOLEK_CS/sass/_footer.scss",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!OSIOLEK_CS/sass/_wydarzenia.scss",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!z_old_OSIOLEK_0.3/old_OSIOLEK_0.3/centrum-sztuki-0.3.x/style/desktop.css",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!OSIOLEK_CS/centrum-sztuki-0.4-develop/functions.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!OSIOLEK_CS/centrum-sztuki-0.4-develop/bilety_online.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!OSIOLEK_CS/centrum-sztuki-0.4-develop/filmy_single.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!OSIOLEK_CS/centrum-sztuki-0.4-develop/kino.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/centrum-sztuki_NOT INCLUDED/kopie/2016-10-24 kultura.olawa/ZMODYFIKOWANY_kopia-bazy-kulturaolawa_6-2016-10-25-12-04.sql",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/centrum-sztuki_NOT INCLUDED/kopie/2016-10-24 kultura.olawa/backup_2016-10-24-0942_ZMODYFIKOWANY.sql",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!widżety_CS/repertuar-kina-widget/repertuar-kina-widget/repertuar-kina-widget.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/centrum-sztuki_NOT INCLUDED/kopie/2016-10-24 kultura.olawa/backup_2016-10-24-0942_Centrum_Sztuki_w_Oawie_efc6c3e35063-db",
+		"/C/Users/jurek/Downloads/old_OSIOLEK_0.3-0.3.5.2/old_OSIOLEK_0.3-0.3.5.2/centrum-sztuki-0.3.5.2/style.css",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!widżety_CS/zapowiedzi-kinowe-widget/zapowiedzi-kinowe-widget/zapowiedzi-kinowe-widget.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!OSIOLEK_CS/sass/_mediaQueries.scss",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!_fwk/fwk/fwk/functions.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!_fwk/fwk/fwk/404.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!_fwk/fwk/fwk/wp_bootstrap_navwalker.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!_fwk/fwk/fwk/header.php",
+		"/C/Users/jurek/Dropbox/webmaster/wordpress/!_fwk/fwk/fwk/page.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tab",
+			"pods(",
+			"script",
+			"button",
+			"$dzien_wygenerowany",
+			"$data_generowania_testowe",
+			"$pods",
+			"$dzisiaj",
+			"'ekran_kasa'",
+			"'ekran_kasa_ustawienia'",
+			"EKRAN_KASA",
+			"ekran_kasa",
+			"POD_EKRAN_KASA_USTAWIENIA",
+			"ekran_kasa_ustawienia",
+			"]",
+			"[",
+			"post_status",
+			"null",
+			"$projekcjeWWW",
+			"pathxml",
+			"path",
+			"script",
+			"sess",
+			"butto",
+			"wyswietla",
+			"wyswietlaj_komentarze",
+			"komen",
+			"TEST",
+			"style",
+			"ekran",
+			"table",
+			"TEST",
+			"bilety",
+			"cena",
+			"TEST",
+			"input",
+			"zapisz",
+			"zapisy",
+			"antys",
+			"footer",
+			"WP_CACHE",
+			"wp_cache",
+			"dzien",
+			"testowoCon",
+			"testowoConse",
+			"testowo",
+			"pods",
+			"ekran_kasa",
+			"conso",
+			"date(",
+			"pobierzTerminWydarzenia",
+			"http://www.kultura.olawa.pl",
+			"centrum_sztuki_wordpress",
+			"sess",
+			"$dodajProjekcje",
+			"clear",
+			"floa",
+			"dolne",
+			"www.kultura.olawa.pl",
+			"http://www.kultura.olawa.pl",
+			"centrum_sztuki_wordpress",
+			"http://www.kultura.olawa.pl/",
+			"centrum_sztuki_wordpress",
+			"systembiletowy",
+			"navbar",
+			"back",
+			"widhMaxMobile",
+			"img",
+			"rgba(0, 0, 0, .0001)",
+			"rgba(0, 0, 0, .5)",
+			"carousel",
+			"rysujWierszTabeliKursow",
+			"testy_laboratorium",
+			"laboratorium",
+			"wp_enqueue_style",
+			"debug",
+			"banner",
+			"adres",
+			"search",
+			"reply",
+			"sentio_header",
+			"TESTOWE",
+			"Smołowik",
+			"test",
+			"active",
+			"script",
+			"visual",
+			"dec",
+			"tloStandardDivTerm",
+			"tloStandardDivTermin",
+			"transi",
+			"hover",
+			"border",
+			"TEST",
+			"zapowiedziKinoweWidgetJS",
+			"WP_widget",
+			"margines-bledu",
+			"wydarzenie-termin-dzien-width",
+			"padding-kolumny",
+			"kategor",
+			"kup",
+			"clea",
+			"font-weight",
+			"$kolorNakladany",
+			"kup",
+			"$perm",
+			"h2",
+			"pegaz_thumb.png",
+			"http://www.kultura.olawa.pl/testy_laboratorium",
+			"http://www.kultura.olawa.pl",
+			"kultura.olawa.pl",
+			"centrum_sztuki_wordpress",
+			"kopia",
+			"backup",
+			"column",
+			"www.kultura.olawa.pl",
+			"kultura.olawa",
+			"centrum_sztuki_wordpress",
+			"kulturaolawa_8",
+			"DEFINER=`root`@`localhost`",
+			"ticketsoftware",
+			"kulturaolawa_8",
+			"Wydarzenie archiwalne",
+			"dzisiaj",
+			".kategoria",
+			"processXML",
+			"form",
+			"&bull"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$dzien_wygenerowany_pods",
+			"$data_generowania_testowe_pods",
+			"$pods_ekran_kasa_ustawienia",
+			"$data_generowania",
+			"POD_EKRAN_KASA",
+			"POD_EKRAN_KASA_USTAWIENIA",
+			"POD_EKRAN_KASA",
+			"POD_EKRAN_KASA_USTAWIENIA",
+			"'",
+			"ekran_kasa_ustawienia",
+			"http://www.kulturaolawa.nazwa.pl/testy_laboratorium",
+			"testy_laboratorium",
+			"www.kulturaolawa.nazwa.pl/testy_laboratorium",
+			"testy_laboratorium",
+			"http://www.kulturaolawa.nazwa.pl/testy_laboratorium/",
+			"testy_laboratorium",
+			"$carousel-kolor-grad-wewn",
+			"$carousel-kolor-grad-zewn",
+			"$kolorTekstNakladany",
+			"http://www.kulturaolawa.nazwa.pl/testy_laboratorium",
+			"http://www.kultura.olawa.pl/testy_laboratorium",
+			"testy_laboratorium",
+			"www.kulturaolawa.nazwa.pl/testy_laboratorium",
+			"testy_laboratorium",
+			"14242_epicentrumTicket",
+			"testy_laboratorium",
+			"zmienionaProjekcja"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "carcassonne/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!doctype html>",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "carcassonne/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 90,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "carcassonne/js/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1155,
+								1155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "carcassonne_proj.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\jurek\\Dropbox\\webmaster\\wordpress\\!z_old_OSIOLEK_0.3\\old_OSIOLEK_0.3_PROJEKT.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 81.0,
+		"last_filter": "zmien",
+		"selected_items":
+		[
+			[
+				"zmien",
+				"zmienStatusPublikacji"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
